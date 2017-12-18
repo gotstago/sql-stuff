@@ -1,0 +1,1 @@
+Usage: ./replacer old new filename
